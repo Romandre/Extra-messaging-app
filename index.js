@@ -16,13 +16,13 @@ app.get('/', function (req, res) {
 
 var messages = [
     {
-        username: 'User 1',
-        message: 'Hello!',
+        username: 'Sergey Brin',
+        message: 'This app cannot be better!',
         date: 'Friday, 15:30'
     },
     {
-        username: 'User 2',
-        message: 'Hey everyone!',
+        username: 'Tim Cook',
+        message: 'It can if it was on iPhone..',
         date: 'Friday, 15:46'
     }
 ];
