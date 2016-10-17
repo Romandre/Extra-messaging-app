@@ -18,12 +18,14 @@ var messages = [
     {
         username: 'Sergey Brin',
         message: 'This app cannot be better!',
-        date: 'Friday, 15:30'
+        date: 'Friday, 15:30',
+        uuid: '0'
     },
     {
         username: 'Tim Cook',
         message: 'It could if it was on iPhone..',
-        date: 'Friday, 15:46'
+        date: 'Friday, 15:46',
+        uuid: '1'
     }
 ];
 
