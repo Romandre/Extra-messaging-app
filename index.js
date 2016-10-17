@@ -22,7 +22,7 @@ var messages = [
     },
     {
         username: 'Tim Cook',
-        message: 'It can if it was on iPhone..',
+        message: 'It could if it was on iPhone..',
         date: 'Friday, 15:46'
     }
 ];
