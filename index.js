@@ -41,7 +41,8 @@ app.post('/messages', function (req, res)  {
     messages.push({ 
         username: req.body.username,
         message: req.body.message,
-        date: req.body.date
+        date: req.body.date,
+        uuid: req.body.uuid
     });
     res.json(message);
 });
